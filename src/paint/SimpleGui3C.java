@@ -1,6 +1,4 @@
-package paint.circle;
-
-import paint.panel.MyDrawPanel;
+package paint;
 
 import javax.swing.*;
 import java.awt.*;

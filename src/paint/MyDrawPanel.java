@@ -1,4 +1,4 @@
-package paint.panel;
+package paint;
 
 import java.awt.*;
 import javax.swing.*;

@@ -1,166 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd4e89bd-b721-4fdb-b5f4-e450486e3892" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ArrayListMagnet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/BeerSong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Binary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Books.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/BooksTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/BooleanTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ByteTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Clazz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Clock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/DrumKit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/DrumKitTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Echo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/EchoTestDrives.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ExerciseA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ExerciseB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ExerciseC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/GenericTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/GoodDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/GoodTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Hobbits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Main01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Mix4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/MixFor5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/MultiFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/MyCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/MyFirst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/PoolPuzzleOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Puzzle4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Puzzle4b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Shuffle1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/SortArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Strings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Switch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/SwitchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test.class.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test19.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test22.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test33.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test35.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test36.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test5$A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test5$B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test5$C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test5$D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Test9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/TestArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/TestFormatter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/TestRoma.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/XCopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/abcextends/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/abcextends/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/abcextends/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/abcextends/Mixed2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/animal/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/animal/Hippo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/animal/MakeHippo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/ascii/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/battlesea/DotCom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/battlesea/DotComBust.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/battlesea/GameHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/calendar/FullMoons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/constructor/Boo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/continueabc/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/dvumernuymassiv/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/exeption/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/game/SimpleDotComTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka/Boat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka/Rowboat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka/Sailboat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka/TestBoats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka262/Acts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka262/Clowns.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka262/Nose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka262/Of76.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/golovolomka262/Picasso.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/knopka/SimpleGuil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/mail/Box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/method/Test28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/method/Test29.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/method/Test30.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/monster/Dragon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/monster/Monster.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/monster/MonsterTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/monster/Vampire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/musictest/trycatch/MiniMiniMusicApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/musictest/trycatch/MusicTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/objavleniestatic/Foo6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/paint/circle/SimpleGui3C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/paint/panel/MyDrawPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennenasledovanie/ClassA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennenasledovanie/ClassB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennenasledovanie/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennue/Bear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennue/Bees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennue/Honey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennue/Kit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/peremennue/Raccoon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/pereopredelenie/Test251.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/pereopredelenie/Test26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/pereopredelenie/Test27.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/radiator/RetentionBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/radiator/SimUnit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/radiator/TestLifeSupportSim.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/radiator/V2Rariator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/radiator/V3Radiator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/seabattle/GameHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/seabattle/SimpleDotCom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticpole/Aaa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticprioritets/ATest25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticprioritets/StaticSuper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticprioritets/StaticTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticprioritets/Test23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/staticprioritets/Test25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/superistatic/Test6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/superistatic/Test7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/test/first/ExTestDrive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/test/first/MyEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/test1/I.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/test1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/testing/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/testing/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/thread/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Example1/thread/Q202.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
-    </list>
+    <list default="true" id="fd4e89bd-b721-4fdb-b5f4-e450486e3892" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -179,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MyDrawPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/paint/panel/MyDrawPanel.java">
+        <entry file="file://$PROJECT_DIR$/src/paint/MyDrawPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,10 +32,10 @@
         </entry>
       </file>
       <file leaf-file-name="SimpleGui3C.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/paint/circle/SimpleGui3C.java">
+        <entry file="file://$PROJECT_DIR$/src/paint/SimpleGui3C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -234,7 +75,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -287,9 +128,9 @@
         <option value="$PROJECT_DIR$/src/test/first/MyEx.java" />
         <option value="$PROJECT_DIR$/src/test/first/ExTestDrive.java" />
         <option value="$PROJECT_DIR$/src/knopka/SimpleGuil.java" />
-        <option value="$PROJECT_DIR$/src/paint/MyDrawPanel.java" />
         <option value="$PROJECT_DIR$/src/paint/circle/SimpleGui3C.java" />
         <option value="$PROJECT_DIR$/src/paint/panel/MyDrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/paint/MyDrawPanel.java" />
       </list>
     </option>
   </component>
@@ -329,27 +170,7 @@
               <item name="Example1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Example1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="knopka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Example1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Example1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paint" type="462c0819:PsiDirectoryNode" />
-              <item name="circle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Example1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="paint" type="462c0819:PsiDirectoryNode" />
-              <item name="panel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Example1" type="b2602c69:ProjectViewProjectNode" />
@@ -441,12 +262,12 @@
       </extension>
     </configuration>
     <configuration name="SimpleGui3C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="paint.circle.SimpleGui3C" />
+      <option name="MAIN_CLASS_NAME" value="paint.SimpleGui3C" />
       <module name="Example1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="paint.circle.*" />
+          <option name="PATTERN" value="paint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,6 +356,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -550,7 +372,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3292683" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.08964144" visible="true" weight="0.14717224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.08964144" visible="true" weight="0.14717224" />
       <window_info id="Structure" order="1" sideWeight="0.91964287" side_tool="true" weight="0.16580977" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -745,18 +567,6 @@
           <line>19</line>
           <properties />
           <option name="timeStamp" value="175" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/paint/circle/SimpleGui3C.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="186" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/paint/circle/SimpleGui3C.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/test/Test13.</url>
@@ -1167,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/knopka/SimpleGuil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/Programming/jdk-7u17-w-x64/uninstall/jre/lib/rt.jar!/javax/swing/JComponent.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1205,20 +1008,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/paint/panel/MyDrawPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/knopka/SimpleGuil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="153">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paint/MyDrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/paint/circle/SimpleGui3C.java">
+    <entry file="file://$PROJECT_DIR$/src/paint/SimpleGui3C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
